@@ -1,5 +1,5 @@
 # Home:
-- website: https://lineageos.org/
+- website: https://lineageos.org
 - wiki: https://en.wikipedia.org/wiki/LineageOS
 
 # discuss:
